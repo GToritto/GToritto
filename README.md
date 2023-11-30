@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on bachelors degree at Lewis University
+- 🌱 I’m currently learning assembly language
+- 🤔 I’m looking for internship opportunities
+
+
 <!--
 **GToritto/GToritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
