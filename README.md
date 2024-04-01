@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on bachelors degree at Lewis University
-- 🌱 I’m currently learning assembly language
+- 🌱 I’m currently learning operating systems
 - 🤔 I’m looking for internship opportunities
 
 
