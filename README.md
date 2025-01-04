@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on bachelors degree at Lewis University
-- 🌱 I’m currently learning operating systems
-- 🤔 I’m looking for internship opportunities
+- 🔭 I graduted from Lewis University with a 3.71 GPA in Computer Science
+- 🌱 I’m currently learning AWS Cloud
+- 🤔 I’m looking for full time opportunities
 
 
 <!--
