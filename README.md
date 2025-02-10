@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I graduted from Lewis University with a 3.71 GPA in Computer Science
+- 🔭 Computer Science Graduate. Seeking infrastructure and cloud opportunities
 - 🌱 I’m currently learning AWS Cloud
 - 🤔 I’m looking for full time opportunities
 
