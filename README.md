@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Computer Science Graduate. Seeking infrastructure and cloud opportunities
+- 🔭 Computer Science Graduate
 - 🌱 I’m currently learning AWS Cloud
 - 🤔 I’m looking for full time opportunities
+- 📫 How to reach me: giuseppetoritto22@gmail.com
 
 
 <!--
